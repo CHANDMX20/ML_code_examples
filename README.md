@@ -27,8 +27,8 @@ Each file is designed to demonstrate the implementation of the respective algori
 This code demonstrates linear regression with multiple independent variables (features) used to predict a target variable.
 
 ### Code:
-- `Linear_regression_multi_variable.ipynb`
-
+- [`Linear_regression_multi_variable.ipynb`](./Linear_regression_multi_variable.ipynb)
+  
 ---
 
 ## Linear Regression (Single Variable)
@@ -36,7 +36,7 @@ This code demonstrates linear regression with multiple independent variables (fe
 In this example, we implement a simple linear regression model to predict a dependent variable using a single independent variable.
 
 ### Code:
-- `Linear_regression_one_variable.ipynb`
+- [`Linear_regression_one_variable.ipynb`](./Linear_regression_one_variable.ipynb)
 
 ---
 
@@ -45,7 +45,7 @@ In this example, we implement a simple linear regression model to predict a depe
 This example showcases how to perform topic modeling on a text dataset using BERT (Bidirectional Encoder Representations from Transformers). BERT is used to capture the contextual meaning of words in a sentence.
 
 ### Code:
-- `ML_BERTopic_model.ipynb`
+- [`ML_BERTopic_model.ipynb`](./ML_BERTopic_model.ipynb)
 
 ---
 
@@ -59,7 +59,7 @@ In this task, we use machine learning to classify and analyze the variability in
 - Analyzing variability within the dataset
 
 ### Code:
-- `ML_Classification_Parkinson.ipynb`
+- [`ML_Classification_Parkinson.ipynb`](./ML_Classification_Parkinson.ipynb)
 
 ---
 
@@ -68,6 +68,6 @@ In this task, we use machine learning to classify and analyze the variability in
 This example demonstrates the implementation of the Naive Bayes algorithm, a simple but effective method for classification tasks, particularly useful for text classification.
 
 ### Code:
-- `Naive_Bayes.ipynb`
+- [`Naive_Bayes.ipynb`](./Naive_Bayes.ipynb)
 
 ---
