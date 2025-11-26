@@ -10,6 +10,8 @@ This repository contains a collection of Machine Learning code examples, showcas
 
 Each file is designed to demonstrate the implementation of the respective algorithm and provide insights into how these models are used for different types of data and tasks.
 
+![Heatmap](docs/heatmap.png)
+
 ---
 
 ## Table of Contents
